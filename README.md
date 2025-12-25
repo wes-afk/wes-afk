@@ -1,16 +1,23 @@
-## Hi there 👋
+# 
 
-<!--
-**wes-afk/wes-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Inconsolata&duration=1&pause=1000&color=F7F7F7&repeat=false&width=550&lines=Hello%2C+I+am+a+beginner+programmer+with+no+experience!"
+    align="middle"
+    />
+</div>
 
-Here are some ideas to get you started:
+<div align=left>
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Inconsolata&duration=1&pause=1000&color=F7F7F7&repeat=false&width=195&lines=%3C%2F%3E+Languages:" />
+  
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img 
+    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
+    
+  <img 
+    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" />
+</div>
+
+# 
