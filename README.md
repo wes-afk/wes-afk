@@ -1,23 +1,27 @@
-# 
+<!-- Header -->
 
-<div align=center>
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Inconsolata&duration=1&pause=1000&color=F7F7F7&repeat=false&width=550&lines=Hello%2C+I+am+a+beginner+programmer+with+no+experience!"
-    align="middle"
-    />
+<div align=middle>
+  <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand&duration=1&pause=1000&color=F7F7F7&repeat=false&size=25&width=575&vCenter=true&lines=Hello%2C+I+am+a+beginner+programmer+with+little+to+no+experience!"/>
 </div>
+
+<hr/>
+
+<!-- Coding Languages -->
 
 <div align=left>
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Inconsolata&duration=1&pause=1000&color=F7F7F7&repeat=false&width=195&lines=%3C%2F%3E+Languages:" />
-  
-  <br/>
-
-  <img 
-    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
-    
-  <img 
-    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand&duration=1&pause=1000&color=F7F7F7&repeat=false&size=25&width=525&vCenter=true&lines=Languages:"/>
 </div>
 
-# 
+![](https://img.shields.io/badge/C%2B%2B-blue?style=plastic&logo=cplusplus)
+![](https://img.shields.io/badge/C-blue?style=plastic&logo=c)
+
+<hr/>
+
+<!-- Stats -->
+<img align=left src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand&duration=1&pause=1000&color=F7F7F7&repeat=false&size=25&width=525&vCenter=true&lines=Stats:"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wes-afk&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wes-afk&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wes-afk&theme=algolia)
+
+
