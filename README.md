@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<div align="lefter">
+<div align="left">
   <h1>Hello World!</h1>
   <p>I am a beginner programmer with no experience whatsoever.</p>
   <img src="https://skillicons.dev/icons?i=c,cpp"/>
