@@ -1,7 +1,10 @@
 <div align="left">
   <h1>Hello World!</h1>
   <p>I am a beginner programmer with no experience whatsoever.</p>
-  
+
+  <h1></h1>
+
+  <p>Coding Languages:</p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg"/>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg"/>
     
@@ -10,7 +13,7 @@
 
 <h1></h1>
 
-Socials:
+<p>Socials:</p>
 
 [![reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)](https://www.reddit.com/user/wes-afk)
 [![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/wes-afk)
