@@ -15,7 +15,7 @@
 
 <p>Socials:</p>
 
-[![reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)](https://www.reddit.com/user/wes-afk)
+[![reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/wes-afk)
 [![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/wes-afk)
 
 <h1></h1>
