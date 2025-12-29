@@ -2,8 +2,9 @@
 
 <div align="center">
   <h1>Hello World!</h1>
-  <p>I am a beginner programmer still learning C and C++.</p>
+  <p>I am a beginner programmer with no experience so whatever.</p>
 </div>
+<img src="https://skillicons.dev/icons?i=c,cpp"/>
 
 <!-- Stats -->
 <p>My Summary Cards:</p>
