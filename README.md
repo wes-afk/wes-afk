@@ -3,7 +3,8 @@
 <div align="left">
   <h1>Hello World!</h1>
   <p>I am a beginner programmer with no experience whatsoever.</p>
-  <img src="https://skillicons.dev/icons?i=c,cpp"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg"/>
 </div>
 
 <!-- Stats -->
