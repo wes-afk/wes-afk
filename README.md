@@ -1,7 +1,8 @@
 <!-- Header -->
 
-<div align=middle>
-  <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand&duration=1&pause=1000&color=F7F7F7&repeat=false&size=25&width=575&vCenter=true&lines=Hello%2C+I+am+a+beginner+programmer+with+little+to+no+experience!"/>
+<div align="center">
+  <h1>Hello World!</h1>
+  <p>I am a beginner programmer still learning C and/or C++.</p>
 </div>
 
 <hr/>
@@ -23,5 +24,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wes-afk&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wes-afk&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wes-afk&theme=algolia)
-
 
